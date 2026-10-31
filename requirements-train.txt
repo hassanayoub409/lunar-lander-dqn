@@ -1,0 +1,3 @@
+-r requirements.txt
+gymnasium[box2d]>=1.0
+pillow
