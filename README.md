@@ -12,8 +12,8 @@ A small app about reinforcement learning, with everything implemented **from scr
 Requires Python 3.9+. The trained agent and replay GIFs are included, so the app needs no simulator.
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/hassanayoub409/lunar-lander-dqn.git
+cd lunar-lander-dqn
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 streamlit run app.py
