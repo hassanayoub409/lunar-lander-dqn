@@ -5,7 +5,7 @@ A small app about reinforcement learning, with everything implemented **from scr
 1. **Lunar Lander agent.** A Deep Q-Network (DQN) learns, from trial and error only, to land a spacecraft between two flags. See it before and after training, its learning curve and test results.
 2. **Mars rover: Q-values.** An interactive explainer. Change the rewards, the discount factor and the chance of moving the wrong way, and watch the optimal action in every state update live.
 
-![Open the app](https://lunar-lander-dqn-409.streamlit.app) 
+[Open the app](https://lunar-lander-dqn-409.streamlit.app) 
 
 ## Run the app
 
